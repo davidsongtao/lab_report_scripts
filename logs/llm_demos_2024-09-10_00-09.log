@@ -1,0 +1,591 @@
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:07:02 | SUCCESS  | __main__:update_reports:78 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:15:04 | ERROR    | __main__:create_reports:49 - 创建检测报告时发生错误！错误信息：[Errno 13] Permission denied: 'E:\\测试报告\\240800079.docx'
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:15:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:15:04 | ERROR    | __main__:update_reports:84 - 文件数量与列表长度不匹配！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:15:21 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:15:21 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:15:21 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:15:22 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:15:22 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:15:22 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:15:22 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:15:22 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:19:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:19:49 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:19:49 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800079.docx 委托编号已成功修改!
+2024-09-10 00:19:49 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:19:49 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800080.docx 委托编号已成功修改!
+2024-09-10 00:19:49 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:19:49 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800081.docx 委托编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800082.docx 委托编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800083.docx 委托编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800084.docx 委托编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:19:50 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800085.docx 委托编号已成功修改!
+2024-09-10 00:19:51 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:19:51 | SUCCESS  | __main__:update_reports:94 - 文件 E:\测试报告\240800086.docx 委托编号已成功修改!
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:22:39 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:22:39 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800079.docx 委托编号已成功修改!
+2024-09-10 00:22:40 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800080.docx 委托编号已成功修改!
+2024-09-10 00:22:41 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800081.docx 委托编号已成功修改!
+2024-09-10 00:22:41 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800082.docx 委托编号已成功修改!
+2024-09-10 00:22:41 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800083.docx 委托编号已成功修改!
+2024-09-10 00:22:41 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800084.docx 委托编号已成功修改!
+2024-09-10 00:22:41 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800085.docx 委托编号已成功修改!
+2024-09-10 00:22:41 | SUCCESS  | __main__:update_reports:105 - 文件 E:\测试报告\240800086.docx 委托编号已成功修改!
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:23:43 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:24:17 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:24:17 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:24:17 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:24:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:24:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:24:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:24:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:24:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:25:46 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:25:46 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:25:46 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:25:46 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:25:46 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:25:47 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:25:47 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:25:47 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:26:06 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:26:07 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800079.docx 委托编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800080.docx 委托编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800081.docx 委托编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800082.docx 委托编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800083.docx 委托编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800084.docx 委托编号已成功修改!
+2024-09-10 00:26:08 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800085.docx 委托编号已成功修改!
+2024-09-10 00:26:09 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800086.docx 委托编号已成功修改!
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:28:27 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:28:28 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800079.docx 委托编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800080.docx 委托编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800081.docx 委托编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800082.docx 委托编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800083.docx 委托编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800084.docx 委托编号已成功修改!
+2024-09-10 00:28:29 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800085.docx 委托编号已成功修改!
+2024-09-10 00:28:30 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800086.docx 委托编号已成功修改!
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079123.docx已成功创建！
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:28:59 | ERROR    | __main__:create_reports:49 - 创建检测报告时发生错误！错误信息：[Errno 13] Permission denied: 'E:\\测试报告\\240800082.docx'
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:28:59 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:28:59 | ERROR    | __main__:update_report_ids:84 - 文件数量与报告编号列表长度不匹配！
+2024-09-10 00:28:59 | ERROR    | __main__:update_assignment_ids:102 - 文件数量与委托编号列表长度不匹配！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:29:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:29:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:29:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:29:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:29:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800079.docx 委托编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800080.docx 委托编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800081.docx 委托编号已成功修改!
+2024-09-10 00:29:25 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800082.docx 委托编号已成功修改!
+2024-09-10 00:29:26 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800083.docx 委托编号已成功修改!
+2024-09-10 00:29:26 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800084.docx 委托编号已成功修改!
+2024-09-10 00:29:26 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800085.docx 委托编号已成功修改!
+2024-09-10 00:29:26 | SUCCESS  | __main__:update_assignment_ids:109 - 文件 E:\测试报告\240800086.docx 委托编号已成功修改!
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:31:23 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:31:23 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:31:23 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:31:23 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:31:23 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:31:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:31:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:31:24 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:32:55 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:32:56 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:32:56 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:32:56 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:32:56 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:32:57 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:32:57 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:32:57 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:33:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:33:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:33:17 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:33:17 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:33:17 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:33:17 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:33:18 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:33:18 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:35:15 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:35:15 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:35:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:35:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:35:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:35:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:35:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:35:16 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:36:19 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:36:19 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:36:19 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:36:19 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:36:19 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:36:20 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:36:20 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:36:20 | SUCCESS  | __main__:update_report_ids:94 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:38:09 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:38:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:39:31 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:39:31 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:39:32 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:39:32 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:39:32 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:39:32 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:39:32 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:39:32 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:40:00 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:40:00 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:40:00 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:40:01 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:40:01 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:40:01 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:40:01 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:40:01 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:41:02 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:41:02 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:41:02 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:41:02 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:41:03 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:41:03 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:41:03 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:41:03 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:42:12 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:42:12 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:42:12 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:42:12 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:42:12 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:42:12 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:42:13 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:42:13 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:42:26 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号已成功修改!
+2024-09-10 00:42:27 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号已成功修改!
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:47:17 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:47:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800079.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800080.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800081.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:18 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800082.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:19 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800083.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:19 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800084.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:19 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800085.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:47:20 | SUCCESS  | __main__:update_report_ids:92 - 文件 E:\测试报告\240800086.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:49:57 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:49:57 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800079' 在文件 E:\测试报告\240800079.docx
+2024-09-10 00:49:57 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800079.docx 中完成了 1 次替换
+2024-09-10 00:49:57 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000159' 在文件 E:\测试报告\240800079.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800079.docx 中完成了 12 次替换
+2024-09-10 00:49:58 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800079.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800080' 在文件 E:\测试报告\240800080.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800080.docx 中完成了 1 次替换
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000160' 在文件 E:\测试报告\240800080.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800080.docx 中完成了 12 次替换
+2024-09-10 00:49:58 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800080.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800081' 在文件 E:\测试报告\240800081.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800081.docx 中完成了 1 次替换
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000161' 在文件 E:\测试报告\240800081.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800081.docx 中完成了 12 次替换
+2024-09-10 00:49:58 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800081.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800082' 在文件 E:\测试报告\240800082.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800082.docx 中完成了 1 次替换
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000162' 在文件 E:\测试报告\240800082.docx
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800082.docx 中完成了 12 次替换
+2024-09-10 00:49:58 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800082.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:58 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800083' 在文件 E:\测试报告\240800083.docx
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800083.docx 中完成了 1 次替换
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000163' 在文件 E:\测试报告\240800083.docx
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800083.docx 中完成了 12 次替换
+2024-09-10 00:49:59 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800083.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800084' 在文件 E:\测试报告\240800084.docx
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800084.docx 中完成了 1 次替换
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000164' 在文件 E:\测试报告\240800084.docx
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800084.docx 中完成了 12 次替换
+2024-09-10 00:49:59 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800084.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800085' 在文件 E:\测试报告\240800085.docx
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800085.docx 中完成了 1 次替换
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000165' 在文件 E:\测试报告\240800085.docx
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800085.docx 中完成了 12 次替换
+2024-09-10 00:49:59 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800085.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:49:59 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800086' 在文件 E:\测试报告\240800086.docx
+2024-09-10 00:50:00 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800086.docx 中完成了 1 次替换
+2024-09-10 00:50:00 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000166' 在文件 E:\测试报告\240800086.docx
+2024-09-10 00:50:00 | INFO     | __main__:replace_text_in_docx:81 - 在文件 E:\测试报告\240800086.docx 中完成了 12 次替换
+2024-09-10 00:50:00 | SUCCESS  | __main__:update_report_ids:98 - 文件 E:\测试报告\240800086.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:51:26 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800079' 在文件 E:\测试报告\240800079.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800079.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000159' 在文件 E:\测试报告\240800079.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800079.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800079.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800080' 在文件 E:\测试报告\240800080.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800080.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000160' 在文件 E:\测试报告\240800080.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800080.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800080.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800081' 在文件 E:\测试报告\240800081.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800081.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000161' 在文件 E:\测试报告\240800081.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800081.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800081.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800082' 在文件 E:\测试报告\240800082.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800082.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000162' 在文件 E:\测试报告\240800082.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800082.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800082.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800083' 在文件 E:\测试报告\240800083.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800083.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000163' 在文件 E:\测试报告\240800083.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800083.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800083.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800084' 在文件 E:\测试报告\240800084.docx
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800084.docx 中完成了 1 次替换
+2024-09-10 00:51:26 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000164' 在文件 E:\测试报告\240800084.docx
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800084.docx 中完成了 1 次替换
+2024-09-10 00:51:27 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800084.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800085' 在文件 E:\测试报告\240800085.docx
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800085.docx 中完成了 1 次替换
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000165' 在文件 E:\测试报告\240800085.docx
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800085.docx 中完成了 1 次替换
+2024-09-10 00:51:27 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800085.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$report_id$' 替换为 '240800086' 在文件 E:\测试报告\240800086.docx
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800086.docx 中完成了 1 次替换
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:62 - 尝试将 '$assignment_id$' 替换为 '24000166' 在文件 E:\测试报告\240800086.docx
+2024-09-10 00:51:27 | INFO     | __main__:replace_text_in_docx:88 - 在文件 E:\测试报告\240800086.docx 中完成了 1 次替换
+2024-09-10 00:51:27 | SUCCESS  | __main__:update_report_ids:123 - 文件 E:\测试报告\240800086.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:52:25 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800079.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:25 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800080.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:25 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800081.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:26 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800082.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:26 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800083.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:26 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800084.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:26 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800085.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:52:26 | SUCCESS  | __main__:update_report_ids:100 - 文件 E:\测试报告\240800086.docx 报告编号和委托编号已成功修改!
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:54:54 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:55:04 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800079.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:04 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800080.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:04 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800081.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:04 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800082.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:04 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800083.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:05 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800084.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:05 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800085.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:55:05 | SUCCESS  | __main__:update_report_ids:101 - 文件 E:\测试报告\240800086.docx 中的：报告编号|委托编号|委托单位|已成功修改!
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:56:51 | ERROR    | __main__:create_reports:49 - 创建检测报告时发生错误！错误信息：[Errno 13] Permission denied: 'E:\\测试报告\\240800082.docx'
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:56:51 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:56:51 | ERROR    | __main__:update_report_ids:92 - 文件数量与报告编号列表长度不匹配！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:58:04 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:58:04 | ERROR    | __main__:update_report_ids:92 - 文件数量与报告编号列表长度不匹配！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:58:16 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:58:16 | ERROR    | __main__:update_report_ids:92 - 文件数量与列表长度不匹配！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800083.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:58:20 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800079.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:21 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800080.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:21 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800081.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:21 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800082.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:21 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800083.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:21 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800084.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:21 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800085.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:58:22 | SUCCESS  | __main__:update_report_ids:103 - 文件 E:\测试报告\240800086.docx 中的：>>>报告编号|委托编号|委托单位|工程名称<<<已成功修改!
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800079.docx已成功创建！
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800080.docx已成功创建！
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800081.docx已成功创建！
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800082.docx已成功创建！
+2024-09-10 00:59:48 | ERROR    | __main__:create_reports:49 - 创建检测报告时发生错误！错误信息：[Errno 13] Permission denied: 'E:\\测试报告\\240800083.docx'
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800084.docx已成功创建！
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800085.docx已成功创建！
+2024-09-10 00:59:48 | SUCCESS  | __main__:create_reports:47 - 检测报告E:\测试报告\240800086.docx已成功创建！
+2024-09-10 00:59:48 | ERROR    | __main__:update_report_ids:92 - 文件数量与列表长度不匹配！
