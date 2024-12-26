@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/source_data/土工密度源文件.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/source_data/灰剂量源文件.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/source_data/砼抗渗性能数据源.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/source_data/砼试块抗压强度.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/source_data/钢筋原材数据源.csv" charset="GBK" />

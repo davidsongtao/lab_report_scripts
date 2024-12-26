@@ -22,3 +22,7 @@ class ParametersConfig(object):
         self.steel_template = r"E:\lab_report_scripts\templates\钢筋原材模板.docx"
         self.water_source_data = r"E:\lab_report_scripts\source_data\砼抗渗性能数据源.csv"
         self.water_grade_template = r"E:\lab_report_scripts\templates\砼抗渗性能模板.docx"
+        self.geotechnical_density_source_data = r"E:\lab_report_scripts\source_data\土工密度源文件.csv"
+        self.geotechnical_density_template = r"E:\lab_report_scripts\templates\土工密度模板.docx"
+        self.huijiliang_source_data = r"E:\lab_report_scripts\source_data\灰剂量源文件.csv"
+        self.huijiliang_template = r"E:\lab_report_scripts\templates\灰剂量模板.docx"

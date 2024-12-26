@@ -22,7 +22,7 @@ def update_report(report_ids, assignment_ids, assignment_party, project_name, wi
             maintenance_condition) or len(files) != len(contractor) or len(files) != len(project_section) or len(files) != len(molding_date) or len(files) != len(sampling_date) or len(files) != len(report_date) or len(files) != len(batch_size) or len(
         files) != len(curing_age) or len(files) != len(witness) or len(files) != len(witness_id) or len(files) != len(sampler) or len(files) != len(sampler_id) or len(files) != len(break_power_1) or len(files) != len(strength_1) or len(files) != len(
         break_power_2) or len(files) != len(strength_2) or len(files) != len(break_power_3) or len(files) != len(strength_3) or len(files) != len(mean_strength) or len(files) != len(strength_percentage) or len(files) != len(assignment_type):
-        logger.error("文件数量与列表长度不匹配！")
+        logger.error("报告编号有重复！")
         return
     # 若文件数量与列表长度匹配，则更新所有文档的报告编号
     for i, file_name in enumerate(files):

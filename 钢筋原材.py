@@ -103,19 +103,23 @@ def load_data(source_data):
 
     # 构建屈服强度数据
     for model in steel_model:
-        random_num_1 = random.randint(429, 442)
-        random_num_2 = random.randint(429, 442)
+        random_num_1 = random.randrange(425, 445, 5)  # 从429到442，间隔5
+        random_num_2 = random.randrange(425, 445, 5)
         if random_num_1 == random_num_2:
-            random_num_2 += 1
+            # 如果两个数相同，重新生成第二个数
+            while random_num_2 == random_num_1:
+                random_num_2 = random.randrange(425, 445, 5)
         rel_1.append(str(random_num_1))
         rel_2.append(str(random_num_2))
 
     # 构建抗拉强度数据
     for model in steel_model:
-        random_num_1 = random.randint(585, 611)
-        random_num_2 = random.randint(585, 611)
+        random_num_1 = random.randrange(585, 615, 5)  # 从585到611，间隔5
+        random_num_2 = random.randrange(585, 615, 5)
         if random_num_1 == random_num_2:
-            random_num_2 += 1
+            # 如果两个数相同，重新生成第二个数
+            while random_num_2 == random_num_1:
+                random_num_2 = random.randrange(585, 615, 5)
         rm_1.append(str(random_num_1))
         rm_2.append(str(random_num_2))
 
